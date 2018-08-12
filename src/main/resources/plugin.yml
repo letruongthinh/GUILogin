@@ -1,0 +1,7 @@
+name: GUILogin
+version: ${project.version}
+main: me.tozymc.guilogin.GUILogin
+authors: [TozyMC]
+depend: [AuthMe]
+commands:
+  gl:
